@@ -4,6 +4,7 @@ def main():
         try:
             num = int(input("Type an integer"))
             break
+        
 
 
 if __name__ == "__main__":
