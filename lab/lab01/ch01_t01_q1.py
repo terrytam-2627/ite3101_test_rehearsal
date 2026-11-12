@@ -9,6 +9,7 @@ def main():
 
     if num % 10 == 0 and num % 3 != 0:
         print(f"{num}" is divisible by 10 and not divisible by 3.")
+              
 
 
 if __name__ == "__main__":
