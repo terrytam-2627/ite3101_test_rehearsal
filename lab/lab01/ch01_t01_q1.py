@@ -4,7 +4,8 @@ def main():
         try:
             num = int(input("Type an integer"))
             break
-        except ValueE
+        except ValueError:
+            print('please ')
 
 
 if __name__ == "__main__":
