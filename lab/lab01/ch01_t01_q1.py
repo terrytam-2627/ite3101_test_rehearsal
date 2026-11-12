@@ -2,7 +2,7 @@ def main():
     # Remove pass with your answer.
     while True:
         try:
-            num = int(input("Type an integer"))
+            num = int(input("Type an integer: "))
             break
         except ValueError:
             print('please enter an integer')
