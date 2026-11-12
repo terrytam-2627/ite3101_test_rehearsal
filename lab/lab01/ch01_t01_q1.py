@@ -5,7 +5,7 @@ def main():
             num = int(input("Type an integer"))
             break
         except ValueError:
-            print('please enter an in')
+            print('please enter an integer')
 
 
 if __name__ == "__main__":
