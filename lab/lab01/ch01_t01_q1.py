@@ -2,7 +2,7 @@ def main():
     # Remove pass with your answer.
     while True:
         try:
-            num = int(input())
+            num = int(input("Type an"))
 
 
 if __name__ == "__main__":
