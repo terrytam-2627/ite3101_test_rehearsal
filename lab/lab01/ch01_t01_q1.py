@@ -4,7 +4,7 @@ def main():
         try:
             num = int(input("Type an integer"))
             break
-        except ValueF
+        except Value
 
 
 if __name__ == "__main__":
