@@ -7,7 +7,8 @@ def main():
         except ValueError:
             print('please enter an integer')
 
-    if num % 10 == 0 and num
+    if num % 10 == 0 and num % 3 != 0:
+        print
 
 
 if __name__ == "__main__":
