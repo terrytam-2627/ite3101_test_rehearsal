@@ -8,7 +8,7 @@ def main():
             print('please enter an integer')
 
     if num % 10 == 0 and num % 3 != 0:
-        print(f"{num}")
+        print(f"{num}" is divisible by 10 and)
 
 
 if __name__ == "__main__":
